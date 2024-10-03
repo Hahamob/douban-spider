@@ -1,4 +1,4 @@
-# Book-Recommendation-System-Based-on-Collaborative-Filtering
+# Book Recommendation System Based on Collaborative Filtering
 
 Project Overview
 -------------------
