@@ -30,7 +30,11 @@ The user-based collaborative filtering algorithm calculates the similarity betwe
 Technology Stack
 --------------------------
 Programming Language: Python
+
 Web Framework: Django
+
 Database: MySQL
+
 Frontend: Bootstrap for UI design
+
 Development Tools: PyCharm, Navicat for database management
